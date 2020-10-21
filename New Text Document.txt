@@ -1,0 +1,17 @@
+<html>
+<head> <title> My self </title>
+</head>
+
+<body>
+
+<h1><p>Hi my name is Himanshu Joshi. <br/>
+I am in class 8th div-a.My school name is 
+R.C.PATLE.SECONDARY.SCHOOL SHIRPUR.<br/>
+My class teacher name is Mr.R.V.Namge Sir.<br/>
+I have a 8 subjects.<br/>
+    And My favourite subject is<strong> Math.</strong></h1>    
+<img src = "math image.jpg" />
+
+</body>
+
+</html> 
